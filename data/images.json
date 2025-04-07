@@ -1,16 +1,37 @@
 [
     {
-      "src": "images/joker.png",
-      "alt": "mountain",
-      "caption": "산의 풍경\n 공략 보러가기🔗",
+      "src": "images/jokers/joker.png",
+      "alt": "조커 joker",
+      "caption": "조커\n 공략 보러가기🔗",
       "link": "https://example.com/mountain",
       "disabled": false
     },
     {
-      "src": "images/lusty joker.png",
-      "alt": "city",
-      "caption": "도시의 밤",
+      "src": "images/jokers/greedy joker.png",
+      "alt": "인색한 조커 greedy joker",
+      "caption": "인색한 조커",
       "link": "https://example.com/city",
       "disabled": true
+    },
+    {
+      "src": "images/jokers/lusty joker.png",
+      "alt": "음욕의 조커 lusty joker",
+      "caption": "음욕의 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/wrathful joker.png",
+      "alt": "분노하는 조커 wrathful joker",
+      "caption": "분노하는 조커",
+      "link": "https://example.com/city",
+      "disabled": false
+    },
+    {
+      "src": "images/jokers/gluttonous joker.png",
+      "alt": "탐욕스러운 조커 gluttonous joker",
+      "caption": "탐욕스러운 조커",
+      "link": "https://example.com/city",
+      "disabled": false
     }
   ]

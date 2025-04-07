@@ -114,7 +114,8 @@ body {
 }
 
 .site-logo {
-  height: 48px;
+  height: 150px;
+  max-height: 200px;
   object-fit: contain;
 }
 
@@ -129,7 +130,7 @@ body {
 .search-container {
   width: 100%;
   max-width: 900px;
-  margin: 60px auto 30px auto;
+  margin: 30px auto 30px auto;
   text-align: center;
   padding: 0 16px; /* ✅ 좌우 여백 */
   box-sizing: border-box;
