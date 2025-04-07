@@ -1,0 +1,16 @@
+[
+    {
+      "src": "images/joker.png",
+      "alt": "mountain",
+      "caption": "산의 풍경\n 공략 보러가기🔗",
+      "link": "https://example.com/mountain",
+      "disabled": false
+    },
+    {
+      "src": "images/lusty joker.png",
+      "alt": "city",
+      "caption": "도시의 밤",
+      "link": "https://example.com/city",
+      "disabled": true
+    }
+  ]
