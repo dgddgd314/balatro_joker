@@ -33,5 +33,40 @@
       "caption": "탐욕스러운 조커",
       "link": "https://example.com/city",
       "disabled": false
+    },
+    {
+      "src": "images/jokers/jolly joker.png",
+      "alt": "쾌활한 조커 jolly joker",
+      "caption": "쾌활한 조커",
+      "link": "https://example.com/city",
+      "disabled": false
+    },
+    {
+      "src": "images/jokers/zany joker.png",
+      "alt": "엉뚱뚱한 조커 zany joker",
+      "caption": "엉뚱한 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/mad joker.png",
+      "alt": "미친 조커 mad joker",
+      "caption": "미친 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/crazy joker.png",
+      "alt": "정신나간 조커 crazy joker",
+      "caption": "정신나간 조커",
+      "link": "https://example.com/city",
+      "disabled": false
+    },
+    {
+      "src": "images/jokers/droll joker.png",
+      "alt": "괴짜 조커 droll joker",
+      "caption": "괴짜 조커",
+      "link": "https://example.com/city",
+      "disabled": true
     }
   ]

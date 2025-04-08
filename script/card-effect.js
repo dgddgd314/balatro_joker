@@ -33,7 +33,7 @@ function createCard({ src, alt, caption, link, disabled }) {
   cardInner.appendChild(glare);
   anchor.appendChild(cardInner);
   anchor.appendChild(captionEl);
-  contents.appendChild(anchor);
+  contents.appendChild(anchor)
   card.appendChild(contents);
 
   return card;

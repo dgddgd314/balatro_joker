@@ -7,7 +7,8 @@ body {
 .grid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  gap: 25px;
+  column-gap: 25px;
+  row-gap: 15px;
   max-width: 900px;
   margin: 0 auto;
   padding: 0 16px;
@@ -17,10 +18,12 @@ body {
 /* 📱 작은 화면에서는 gap 줄이기 */
 @media (max-width: 600px) {
   .grid {
-    gap: 14px;
+    column-gap: 14px;
+    row-gap: 5px;
   }
 }
 
+/* 카드 */
 .card {
   position: relative;
   width: 100%;
@@ -38,7 +41,7 @@ body {
   position: relative;
   width: 100%;
   aspect-ratio: 3 / 4;
-  border-radius: 20px;
+  border-radius: 10px;
   overflow: hidden;
   transition: transform 0.1s ease;
   transform-style: preserve-3d;
@@ -68,6 +71,11 @@ body {
   z-index: 0;
 }
 
+.card.disabled .card-inner {
+  opacity: 0.4;
+  filter: grayscale(80%);
+}
+
 .card-link {
   display: block;
   color: inherit;
@@ -87,7 +95,7 @@ body {
   color: white;
   text-align: center;
   font-size: 14px;
-  padding: 10px;
+  padding: 5px;
   margin-top: 5px;
   border-radius: 10px;
   opacity: 0;
@@ -96,15 +104,15 @@ body {
   pointer-events: none;
 }
 
-.card:not(.disabled):hover .caption {
-  opacity: 1;
-  transform: translateY(0);
+@media (max-width: 600px) {
+  .caption {
+    font-size: 10px;
+  }
 }
 
-.disabled {
-  opacity: 0.4;
-  pointer-events: none;
-  filter: grayscale(80%);
+.card:hover .caption {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .site-header {
@@ -157,6 +165,7 @@ html, body {
 
 /* Footer 스타일 */
 .site-footer {
+  margin-top: 20px;
   padding: 20px;
   background: #222;
   color: #ccc;
