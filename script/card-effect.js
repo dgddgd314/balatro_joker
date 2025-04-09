@@ -66,8 +66,8 @@ function setupInteractions() {
       const centerX = rect.width / 2;
       const centerY = rect.height / 2;
 
-      const rotateX = -(y - centerY) / 5;
-      const rotateY = (x - centerX) / 5;
+      const rotateX = -(y - centerY) / 6;
+      const rotateY = (x - centerX) / 6;
       cardInner.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
 
       const percentX = (x / rect.width) * 100;
@@ -86,12 +86,15 @@ function setupInteractions() {
 function setupSearch() {
   const input = document.getElementById('searchInput');
   input.addEventListener('input', () => {
-    const keyword = input.value.toLowerCase();
+    // 입력된 keyword에서 공백 제거 + 소문자 처리
+    const keyword = input.value.toLowerCase().replace(/\s+/g, '');
 
-    const filtered = allImages.filter(({ alt, caption }) =>
-      (alt?.toLowerCase() || '').includes(keyword) ||
-      (caption?.toLowerCase() || '').includes(keyword)
-    );
+    const filtered = allImages.filter(({ alt, caption }) => {
+      const altNormalized = (alt || '').toLowerCase().replace(/\s+/g, '');
+      const captionNormalized = (caption || '').toLowerCase().replace(/\s+/g, '');
+
+      return altNormalized.includes(keyword) || captionNormalized.includes(keyword);
+    });
 
     renderCards(filtered);      // 다시 그리기
     setupInteractions();        // 효과 재설정

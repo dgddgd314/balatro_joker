@@ -1,71 +1,1051 @@
 [
     {
       "src": "images/jokers/joker.png",
-      "alt": "조커 joker",
+      "alt": "joker",
       "caption": "조커\n 공략 보러가기🔗",
       "link": "https://example.com/mountain",
       "disabled": false
     },
     {
       "src": "images/jokers/greedy joker.png",
-      "alt": "인색한 조커 greedy joker",
+      "alt": "greedy joker",
       "caption": "인색한 조커",
       "link": "https://example.com/city",
       "disabled": true
     },
     {
       "src": "images/jokers/lusty joker.png",
-      "alt": "음욕의 조커 lusty joker",
+      "alt": "lusty joker",
       "caption": "음욕의 조커",
       "link": "https://example.com/city",
       "disabled": true
     },
     {
       "src": "images/jokers/wrathful joker.png",
-      "alt": "분노하는 조커 wrathful joker",
+      "alt": "wrathful joker",
       "caption": "분노하는 조커",
       "link": "https://example.com/city",
       "disabled": false
     },
     {
       "src": "images/jokers/gluttonous joker.png",
-      "alt": "탐욕스러운 조커 gluttonous joker",
+      "alt": "gluttonous joker",
       "caption": "탐욕스러운 조커",
       "link": "https://example.com/city",
       "disabled": false
     },
     {
       "src": "images/jokers/jolly joker.png",
-      "alt": "쾌활한 조커 jolly joker",
+      "alt": "jolly joker",
       "caption": "쾌활한 조커",
       "link": "https://example.com/city",
       "disabled": false
     },
     {
       "src": "images/jokers/zany joker.png",
-      "alt": "엉뚱뚱한 조커 zany joker",
+      "alt": "zany joker",
       "caption": "엉뚱한 조커",
       "link": "https://example.com/city",
       "disabled": true
     },
     {
       "src": "images/jokers/mad joker.png",
-      "alt": "미친 조커 mad joker",
+      "alt": "mad joker",
       "caption": "미친 조커",
       "link": "https://example.com/city",
       "disabled": true
     },
     {
       "src": "images/jokers/crazy joker.png",
-      "alt": "정신나간 조커 crazy joker",
+      "alt": "crazy joker",
       "caption": "정신나간 조커",
       "link": "https://example.com/city",
       "disabled": false
     },
     {
+      "src": "images/jokers/sly joker.png",
+      "alt": "sly joker",
+      "caption": "교활한 조커",
+      "link": "https://example.com/city",
+      "disabled": false
+    },
+    {
+      "src": "images/jokers/wily joker.png",
+      "alt": "wily joker",
+      "caption": "악랄한 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/clever joker.png",
+      "alt": "clever joker",
+      "caption": "영리한 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/devious joker.png",
+      "alt": "devious joker",
+      "caption": "기만적인 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
       "src": "images/jokers/droll joker.png",
-      "alt": "괴짜 조커 droll joker",
+      "alt": "droll joker",
       "caption": "괴짜 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/crafty joker.png",
+      "alt": "crafty joker",
+      "caption": "간교한 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/half joker.png",
+      "alt": "half joker",
+      "caption": "반쪽짜리 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/joker stencil.png",
+      "alt": "joker stencil",
+      "caption": "조커 스텐실",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/four fingers.png",
+      "alt": "four fingers",
+      "caption": "네 개의 손가락",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/mime.png",
+      "alt": "mime",
+      "caption": "마임",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/credit card.png",
+      "alt": "credit card",
+      "caption": "신용 카드",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/ceremonial dagger.png",
+      "alt": "ceremonial dagger",
+      "caption": "의식용 단검",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/banner.png",
+      "alt": "banner",
+      "caption": "깃발",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/mystic summit.png",
+      "alt": "mystic summit",
+      "caption": "신비의 정점",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/marble joker.png",
+      "alt": "marble joker",
+      "caption": "대리석 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/loyalty card.png",
+      "alt": "loyalty card",
+      "caption": "로열티 카드",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/8 ball.png",
+      "alt": "8 ball",
+      "caption": "8번 공",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/misprint.png",
+      "alt": "misprint",
+      "caption": "인쇄 오류",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/dusk.png",
+      "alt": "dusk",
+      "caption": "땅거미",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/raised fist.png",
+      "alt": "raised fist",
+      "caption": "들어올린 주먹",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/chaos the clown.png",
+      "alt": "chaos the clown",
+      "caption": "혼돈의 광대",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/fibonacci.png",
+      "alt": "fibonacci",
+      "caption": "피보나치",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/steel joker.png",
+      "alt": "steel joker",
+      "caption": "강철 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/scary face.png",
+      "alt": "scary joker",
+      "caption": "무서운 얼굴",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/abstract joker.png",
+      "alt": "abstract joker",
+      "caption": "추상화 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/delayed gratification.png",
+      "alt": "delayed gratification",
+      "caption": "늦춰진 희열",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/hack.png",
+      "alt": "hack",
+      "caption": "삼류",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/pareidolia.png",
+      "alt": "pareidolia",
+      "caption": "변상증",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/gros michel.png",
+      "alt": "gros michel",
+      "caption": "그로 미셸",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/even steven.png",
+      "alt": "even steven",
+      "caption": "이븐 스티븐",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/odd todd.png",
+      "alt": "odd todd",
+      "caption": "오드 토드",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/scholar.png",
+      "alt": "scholar",
+      "caption": "학자",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/business card.png",
+      "alt": "business card",
+      "caption": "명함",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/supernova.png",
+      "alt": "supernova",
+      "caption": "초신성",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/ride the bus.png",
+      "alt": "ride the bus",
+      "caption": "버스 탑승",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/space joker.png",
+      "alt": "space joker",
+      "caption": "우주 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/egg.png",
+      "alt": "egg",
+      "caption": "알",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/burglar.png",
+      "alt": "burglar",
+      "caption": "절도범",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/blackboard.png",
+      "alt": "blackboard",
+      "caption": "칠판",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/runner.png",
+      "alt": "runner",
+      "caption": "주자",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/ice cream.png",
+      "alt": "ice cream",
+      "caption": "아이스크림",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/dna.png",
+      "alt": "dna",
+      "caption": "DNA",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/splash.png",
+      "alt": "splash",
+      "caption": "첨벙",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/blue joker.png",
+      "alt": "blue joker",
+      "caption": "블루 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/sixth sense.png",
+      "alt": "sixth sense",
+      "caption": "육감",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/constellation.png",
+      "alt": "constellation",
+      "caption": "별자리",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/hiker.png",
+      "alt": "hiker",
+      "caption": "도보 여행자",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/faceless joker.png",
+      "alt": "faceless joker",
+      "caption": "얼굴 없는 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/green joker.png",
+      "alt": "green joker",
+      "caption": "그린 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/superposition.png",
+      "alt": "superposition",
+      "caption": "중첩",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/to do list.png",
+      "alt": "to do list",
+      "caption": "할 일 목록",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/cavendish.png",
+      "alt": "cavendish",
+      "caption": "캐번디시",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/card sharp.png",
+      "alt": "card sharp",
+      "caption": "야바위꾼",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/red card.png",
+      "alt": "red card",
+      "caption": "레드카드",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/madness.png",
+      "alt": "to do list",
+      "caption": "광기",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/square joker.png",
+      "alt": "to do list",
+      "caption": "정사각형 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/seance.png",
+      "alt": "seance",
+      "caption": "유령 교류회",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/riff-raff.png",
+      "alt": "riff-raffriffraff",
+      "caption": "정사각형 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/vampire.png",
+      "alt": "vampire",
+      "caption": "뱀파이어",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/shortcut.png",
+      "alt": "shortcut",
+      "caption": "지름길",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/hologram.png",
+      "alt": "hologram",
+      "caption": "홀로그램",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/vagabond.png",
+      "alt": "vagabond",
+      "caption": "방랑자",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/baron.png",
+      "alt": "baron",
+      "caption": "남작",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/cloud 9.png",
+      "alt": "cloud 9",
+      "caption": "클라우드 9",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/rocket.png",
+      "alt": "rocket",
+      "caption": "로켓",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/obelisk.png",
+      "alt": "obelisk",
+      "caption": "오벨리스크",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/midas mask.png",
+      "alt": "midas mask",
+      "caption": "미다스 가면",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/luchador.png",
+      "alt": "luchador",
+      "caption": "루차도르",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/photograph.png",
+      "alt": "photograph",
+      "caption": "사진",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/gift card.png",
+      "alt": "gift card",
+      "caption": "상품권",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/turtle bean.png",
+      "alt": "turtle bean",
+      "caption": "거북이콩",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/erosion.png",
+      "alt": "erosion",
+      "caption": "침식",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/reserved parking.png",
+      "alt": "reserved parking",
+      "caption": "지정 주차 공간",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/mail-in rebate.png",
+      "alt": "mail-in rebate mail in rebate",
+      "caption": "우편 할인",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/to the moon.png",
+      "alt": "to the moon",
+      "caption": "폭등 기원",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/hallucination.png",
+      "alt": "hallucination",
+      "caption": "환각",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/fortune teller.png",
+      "alt": "fortune teller",
+      "caption": "점쟁이",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/juggler.png",
+      "alt": "juggler",
+      "caption": "저글러",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/drunkard.png",
+      "alt": "drunkard",
+      "caption": "술고래",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/stone joker.png",
+      "alt": "stone joker",
+      "caption": "스톤 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/golden joker.png",
+      "alt": "golden joker",
+      "caption": "골든 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/lucky cat.png",
+      "alt": "lucky cat",
+      "caption": "행운의 고양이",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/baseball card.png",
+      "alt": "baseball card",
+      "caption": "야구 카드",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/bull.png",
+      "alt": "bull",
+      "caption": "황소",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/diet cola.png",
+      "alt": "diet cola",
+      "caption": "다이어트 콜라",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/trading card.png",
+      "alt": "trading card",
+      "caption": "트레이딩 카드",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/flash card.png",
+      "alt": "flash card",
+      "caption": "암기용 카드",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/popcorn.png",
+      "alt": "popcorn",
+      "caption": "트레이딩 카드",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/spare trousers.png",
+      "alt": "spare trousers",
+      "caption": "여벌 바지",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/ancient joker.png",
+      "alt": "ancient joker",
+      "caption": "고대 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/ramen.png",
+      "alt": "ramen",
+      "caption": "라면",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/walkie talkie.png",
+      "alt": "walkie talkie",
+      "caption": "워키토키",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/seltzer.png",
+      "alt": "seltzer",
+      "caption": "탄산수",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/castle.png",
+      "alt": "castle",
+      "caption": "성",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/smiley face.png",
+      "alt": "smiley face",
+      "caption": "웃는 얼굴",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/campfire.png",
+      "alt": "campfire",
+      "caption": "캠프파이어",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/golden ticket.png",
+      "alt": "golden ticket",
+      "caption": "골든 티켓",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/mr bones.png",
+      "alt": "mr bones mr.bones",
+      "caption": "해골 아저씨",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/acrobat.png",
+      "alt": "acrobat",
+      "caption": "곡예사",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/sock and buskin.png",
+      "alt": "sock and buskin",
+      "caption": "희극과 비극",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/swashbuckler.png",
+      "alt": "swashbuckler",
+      "caption": "해적",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/troubadour.png",
+      "alt": "troubadour",
+      "caption": "음유시인",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/certificate.png",
+      "alt": "certificate",
+      "caption": "증명서",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/smeared joker.png",
+      "alt": "smeared joker",
+      "caption": "얼룩진 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/throwback.png",
+      "alt": "throwback",
+      "caption": "회상",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/hanging chad.png",
+      "alt": "hanging chad",
+      "caption": "매달린 종이 조각",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/rough gem.png",
+      "alt": "rough gem",
+      "caption": "원석",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/bloodstone.png",
+      "alt": "bloodstone",
+      "caption": "혈석",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/arrowhead.png",
+      "alt": "arrowhead",
+      "caption": "화살촉",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/onyx agate.png",
+      "alt": "onyx agate",
+      "caption": "흑마노",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/glass joker.png",
+      "alt": "glass joker",
+      "caption": "글래스 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/showman.png",
+      "alt": "showman",
+      "caption": "쇼맨",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/flower pot.png",
+      "alt": "flower pot",
+      "caption": "화분",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/blueprint.png",
+      "alt": "blueprint",
+      "caption": "청사진",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/wee joker.png",
+      "alt": "wee joker",
+      "caption": "조그마한 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/merry andy.png",
+      "alt": "merry andy",
+      "caption": "즐거운 앤디",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/oops all 6s.png",
+      "alt": "oops all 6s oops! all 6s 이런 모두 6이야!",
+      "caption": "이런, 모두 6이야!",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/the idol.png",
+      "alt": "the idol",
+      "caption": "우상",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/seeing double.png",
+      "alt": "seeing double",
+      "caption": "둘로 보기",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/matador.png",
+      "alt": "matador",
+      "caption": "투우사",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/hit the road.png",
+      "alt": "hit the road",
+      "caption": "여행 출발",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/the duo.png",
+      "alt": "the duo",
+      "caption": "듀오",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/the trio.png",
+      "alt": "the trio",
+      "caption": "듀오",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/the family.png",
+      "alt": "the family",
+      "caption": "가족",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/the order.png",
+      "alt": "the order",
+      "caption": "조직",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/the tribe.png",
+      "alt": "the tribe",
+      "caption": "부족",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/stuntman.png",
+      "alt": "stuntman",
+      "caption": "스턴트맨",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/invisible joker.png",
+      "alt": "invisible joker",
+      "caption": "투명 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/brainstorm.png",
+      "alt": "brainstorm",
+      "caption": "브레인스토밍",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/satellite.png",
+      "alt": "satellite",
+      "caption": "인공위성",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/shoot the moon.png",
+      "alt": "shoot the moon",
+      "caption": "야반도주",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/drivers license.png",
+      "alt": "drivers license driver's license",
+      "caption": "운전면허증",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/cartomancer.png",
+      "alt": "cartomancer",
+      "caption": "카드 점술가",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/astronomer.png",
+      "alt": "astronomer",
+      "caption": "천문학자",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/burnt joker.png",
+      "alt": "burnt joker",
+      "caption": "타버린 조커",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/bootstraps.png",
+      "alt": "bootstraps",
+      "caption": "자력",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/canio.png",
+      "alt": "canio",
+      "caption": "카니오",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/triboulet.png",
+      "alt": "triboulet 트리불렛 트리블렛",
+      "caption": "트리뷸렛",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/jorick.png",
+      "alt": "jorick",
+      "caption": "요릭",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/chicot.png",
+      "alt": "chicot",
+      "caption": "치코",
+      "link": "https://example.com/city",
+      "disabled": true
+    },
+    {
+      "src": "images/jokers/perkeo.png",
+      "alt": "perkeo",
+      "caption": "페르케오",
       "link": "https://example.com/city",
       "disabled": true
     }
