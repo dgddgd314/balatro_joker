@@ -2,9 +2,9 @@
     {
       "src": "images/jokers/joker.png",
       "alt": "joker",
-      "caption": "조커\n 공략 보러가기🔗",
+      "caption": "조커",
       "link": "https://example.com/mountain",
-      "disabled": false
+      "disabled": true
     },
     {
       "src": "images/jokers/greedy joker.png",
@@ -25,21 +25,21 @@
       "alt": "wrathful joker",
       "caption": "분노하는 조커",
       "link": "https://example.com/city",
-      "disabled": false
+      "disabled": true
     },
     {
       "src": "images/jokers/gluttonous joker.png",
       "alt": "gluttonous joker",
       "caption": "탐욕스러운 조커",
       "link": "https://example.com/city",
-      "disabled": false
+      "disabled": true
     },
     {
       "src": "images/jokers/jolly joker.png",
       "alt": "jolly joker",
       "caption": "쾌활한 조커",
       "link": "https://example.com/city",
-      "disabled": false
+      "disabled": true
     },
     {
       "src": "images/jokers/zany joker.png",
@@ -60,14 +60,14 @@
       "alt": "crazy joker",
       "caption": "정신나간 조커",
       "link": "https://example.com/city",
-      "disabled": false
+      "disabled": true
     },
     {
       "src": "images/jokers/sly joker.png",
       "alt": "sly joker",
       "caption": "교활한 조커",
       "link": "https://example.com/city",
-      "disabled": false
+      "disabled": true
     },
     {
       "src": "images/jokers/wily joker.png",
@@ -121,9 +121,9 @@
     {
       "src": "images/jokers/four fingers.png",
       "alt": "four fingers",
-      "caption": "네 개의 손가락",
-      "link": "https://example.com/city",
-      "disabled": true
+      "caption": "네 개의 손가락\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/31",
+      "disabled": false
     },
     {
       "src": "images/jokers/mime.png",
@@ -296,16 +296,16 @@
     {
       "src": "images/jokers/supernova.png",
       "alt": "supernova",
-      "caption": "초신성",
-      "link": "https://example.com/city",
-      "disabled": true
+      "caption": "초신성\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/17",
+      "disabled": false
     },
     {
       "src": "images/jokers/ride the bus.png",
       "alt": "ride the bus",
-      "caption": "버스 탑승",
-      "link": "https://example.com/city",
-      "disabled": true
+      "caption": "버스 탑승\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/17",
+      "disabled": false
     },
     {
       "src": "images/jokers/space joker.png",
@@ -331,9 +331,9 @@
     {
       "src": "images/jokers/blackboard.png",
       "alt": "blackboard",
-      "caption": "칠판",
-      "link": "https://example.com/city",
-      "disabled": true
+      "caption": "칠판\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/36",
+      "disabled": false
     },
     {
       "src": "images/jokers/runner.png",
@@ -401,9 +401,9 @@
     {
       "src": "images/jokers/green joker.png",
       "alt": "green joker",
-      "caption": "그린 조커",
-      "link": "https://example.com/city",
-      "disabled": true
+      "caption": "그린 조커\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/17",
+      "disabled": false
     },
     {
       "src": "images/jokers/superposition.png",
@@ -471,9 +471,9 @@
     {
       "src": "images/jokers/vampire.png",
       "alt": "vampire",
-      "caption": "뱀파이어",
-      "link": "https://example.com/city",
-      "disabled": true
+      "caption": "뱀파이어\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/32",
+      "disabled": false
     },
     {
       "src": "images/jokers/shortcut.png",
@@ -527,9 +527,9 @@
     {
       "src": "images/jokers/midas mask.png",
       "alt": "midas mask",
-      "caption": "미다스 가면",
-      "link": "https://example.com/city",
-      "disabled": true
+      "caption": "미다스 가면\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/32",
+      "disabled": false
     },
     {
       "src": "images/jokers/luchador.png",
@@ -541,9 +541,9 @@
     {
       "src": "images/jokers/photograph.png",
       "alt": "photograph",
-      "caption": "사진",
-      "link": "https://example.com/city",
-      "disabled": true
+      "caption": "사진\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/34",
+      "disabled": false
     },
     {
       "src": "images/jokers/gift card.png",
@@ -799,10 +799,10 @@
     },
     {
       "src": "images/jokers/hanging chad.png",
-      "alt": "hanging chad",
-      "caption": "매달린 종이 조각",
-      "link": "https://example.com/city",
-      "disabled": true
+      "alt": "hanging chad 구멍 뚫린 조커",
+      "caption": "매달린 종이 조각\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/34",
+      "disabled": false
     },
     {
       "src": "images/jokers/rough gem.png",
@@ -947,9 +947,9 @@
     {
       "src": "images/jokers/stuntman.png",
       "alt": "stuntman",
-      "caption": "스턴트맨",
-      "link": "https://example.com/city",
-      "disabled": true
+      "caption": "스턴트맨\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/35",
+      "disabled": false
     },
     {
       "src": "images/jokers/invisible joker.png",
