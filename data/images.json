@@ -464,7 +464,7 @@
     {
       "src": "images/jokers/riff-raff.png",
       "alt": "riff-raffriffraff",
-      "caption": "정사각형 조커",
+      "caption": "조무래기",
       "link": "https://example.com/city",
       "disabled": true
     },
@@ -633,8 +633,8 @@
       "src": "images/jokers/lucky cat.png",
       "alt": "lucky cat",
       "caption": "행운의 고양이",
-      "link": "https://example.com/city",
-      "disabled": true
+      "link": "https://insidecastle.tistory.com/37",
+      "disabled": false
     },
     {
       "src": "images/jokers/baseball card.png",
@@ -876,7 +876,7 @@
     },
     {
       "src": "images/jokers/oops all 6s.png",
-      "alt": "oops all 6s oops! all 6s 이런 모두 6이야!",
+      "alt": "oops all 6s oops! all 6s 이런 모두 6이야! 주사위",
       "caption": "이런, 모두 6이야!",
       "link": "https://example.com/city",
       "disabled": true
