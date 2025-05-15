@@ -891,9 +891,9 @@
     {
       "src": "images/jokers/seeing double.png",
       "alt": "seeing double",
-      "caption": "둘로 보기",
-      "link": "https://example.com/city",
-      "disabled": true
+      "caption": "둘로 보기\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/38",
+      "disabled": false
     },
     {
       "src": "images/jokers/matador.png",
