@@ -877,9 +877,9 @@
     {
       "src": "images/jokers/oops all 6s.png",
       "alt": "oops all 6s oops! all 6s 이런 모두 6이야! 주사위",
-      "caption": "이런, 모두 6이야!",
-      "link": "https://example.com/city",
-      "disabled": true
+      "caption": "이런, 모두 6이야!\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/39",
+      "disabled": false
     },
     {
       "src": "images/jokers/the idol.png",
