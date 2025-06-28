@@ -317,9 +317,9 @@
     {
       "src": "images/jokers/egg.png",
       "alt": "egg",
-      "caption": "알",
-      "link": "https://example.com/city",
-      "disabled": true
+      "caption": "알\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/40",
+      "disabled": false
     },
     {
       "src": "images/jokers/burglar.png",
@@ -548,9 +548,9 @@
     {
       "src": "images/jokers/gift card.png",
       "alt": "gift card",
-      "caption": "상품권",
-      "link": "https://example.com/city",
-      "disabled": true
+      "caption": "상품권\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/40",
+      "disabled": false
     },
     {
       "src": "images/jokers/turtle bean.png",
@@ -765,9 +765,9 @@
     {
       "src": "images/jokers/swashbuckler.png",
       "alt": "swashbuckler",
-      "caption": "해적",
-      "link": "https://example.com/city",
-      "disabled": true
+      "caption": "해적\n공략 보러가기🔗",
+      "link": "https://insidecastle.tistory.com/40",
+      "disabled": false
     },
     {
       "src": "images/jokers/troubadour.png",
